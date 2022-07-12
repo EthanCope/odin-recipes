@@ -1,0 +1,27 @@
+body {
+  background-color: bisque;
+}
+h1 {
+  color: #1e5586;
+  font-size: 40px;
+}
+p {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  color: rgb(223, 108, 67);
+  font-size: 20px;
+}
+li {
+  font-family: "Courier New", Courier, monospace;
+  margin-bottom: 15px;
+}
+a:link {
+  color: rgb(223, 108, 67);
+}
+a:visited {
+  color: rgb(77, 128, 193);
+}
+a:hover {
+  color: white;
+  background-color: black;
+}
